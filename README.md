@@ -35,4 +35,5 @@ Not attempted
 Thanks for all the help I did submit the following challenges recently that are acutally completed. Challenges 12,15,16,17,18 and 19.  
 
 Self Grade : 47/100
+
 Self Grade Explanation: I gave my self full credit for all sections that I finished. and n grade for anything I didn't do. I did and a -3 cause I didn't have weather description. 
