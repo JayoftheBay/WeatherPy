@@ -29,6 +29,7 @@ Deliverable 2
 * The marker layer map is saved and uploaded to the Vacation_Search folder as WeatherPy_vacation_map.png. (5 pt) **WAS NOT DONE**
 
 Deliverable 3 
+
 Not attempted 
 
 Thanks for all the help I did submit the following challenges recently that are acutally completed. Challenges 12,15,16,17,18 and 19.  
