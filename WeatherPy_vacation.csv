@@ -1,0 +1,705 @@
+,City,Country,Max Temp,Lat,Lng,Hotel Name
+9,Hermanus,ZA,62.02,-34.4187,19.2345,Harbour House Hotel
+11,Ponta do sol,CV,73.18,17.1994,-25.0919,Sintanton Trekking i
+12,Vaini,TO,75.96,-21.2,-175.2,Tonga South Beach House
+15,Nantucket,US,61.0,41.2835,-70.0995,Faraway Nantucket
+16,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+17,Puerto ayora,EC,70.56,-0.7393,-90.3518,Castillo Galapagos
+18,Cape town,ZA,64.11,-33.9258,18.4232,Southern Sun Waterfront Cape Town
+19,Worland,US,64.67,44.0169,-107.9554,Comfort Inn Worland Hwy 16 to Yellowstone
+20,College,US,73.58,64.8569,-147.8028,Best Western Plus Chena River Lodge
+22,Kahului,US,76.84,20.8947,-156.47,Maui Beach Hotel
+24,Arraial do cabo,BR,69.06,-22.9661,-42.0278,Ocean View Hotel
+26,Quepos,CR,76.42,9.4236,-84.1652,Shana By The Beach Resort
+27,Atuona,PF,78.48,-9.8,-139.0333,Hôtel Hiva Oa Hanakee Lodge
+29,Guerrero negro,MX,63.7,27.9769,-114.0611,Cowboy Grill Hotel
+34,Nantucket,US,61.0,41.2835,-70.0995,Faraway Nantucket
+36,Saint-philippe,RE,71.19,-21.3585,55.7679,Le four à pain
+38,Hermanus,ZA,62.02,-34.4187,19.2345,Harbour House Hotel
+41,Broome,AU,78.75,-17.9667,122.2333,Oaks Broome Hotel
+42,Lompoc,US,77.77,34.6391,-120.4579,O'Cairns Inn & Suites
+44,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+45,Hasaki,JP,63.0,35.7333,140.8333,Gyōkeikan
+48,Mahebourg,MU,69.26,-20.4081,57.7,Le Peninsula Bay Beach Resort & Spa
+49,Hamilton,BM,77.04,32.2915,-64.778,Hamilton Princess & Beach Club - A Fairmont Managed Hotel
+50,Pisco,PE,65.01,-13.7,-76.2167,Hosteria del Monasterio
+53,Puerto leguizamo,CO,73.83,-0.1934,-74.7819,Hotel Caucaya
+54,Ikryanoye,RU,66.18,46.0932,47.7308,Guest House Kodyakov
+60,San patricio,MX,78.91,19.2167,-104.7,Grand Isla Navidad Resort
+62,Quepos,CR,76.42,9.4236,-84.1652,Shana By The Beach Resort
+65,Yellowknife,CA,73.56,62.456,-114.3525,Super 8 by Wyndham Yellowknife
+66,Provost,CA,61.72,52.3501,-110.2683,Deerhead Inn
+68,Presidencia roque saenz pena,AR,64.2,-26.7852,-60.4388,Hotel Aconcagua
+75,Bonthe,SL,77.23,7.5264,-12.505,Council Guesthouse
+77,Guerrero negro,MX,63.7,27.9769,-114.0611,Cowboy Grill Hotel
+79,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+86,San joaquin,BO,74.48,-16.3829,-58.3947,Hotel Pantanal San Matias
+87,Bowen,AU,77.68,-20.0167,148.2333,Bluewater Harbour Motel
+88,Saquarema,BR,63.16,-22.92,-42.5103,Itaúna Hostel
+89,Xinan,CN,71.42,26.72,119.8556,Xin Sunshine Hotel
+94,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+95,Yellowknife,CA,73.56,62.456,-114.3525,Super 8 by Wyndham Yellowknife
+96,Cape town,ZA,64.11,-33.9258,18.4232,Southern Sun Waterfront Cape Town
+97,Port blair,IN,77.04,11.6667,92.75,"Hotel Sentinel, Port Blair"
+100,Kaeo,NZ,69.33,-35.1,173.7833,Sabbi's Backpackers
+101,Arraial do cabo,BR,69.06,-22.9661,-42.0278,Ocean View Hotel
+103,Palora,EC,65.68,-1.7,-77.9333,Hotel Sol De Oriente
+104,Ribeira grande,PT,65.16,38.5167,-28.7,Casa da Japoneira
+105,Hermanus,ZA,62.02,-34.4187,19.2345,Harbour House Hotel
+106,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+108,Cape town,ZA,64.11,-33.9258,18.4232,Southern Sun Waterfront Cape Town
+109,Cape town,ZA,64.11,-33.9258,18.4232,Southern Sun Waterfront Cape Town
+112,Norwood,CA,63.43,44.3834,-77.9828,Norwood Overnights
+113,Hamilton,BM,77.04,32.2915,-64.778,Hamilton Princess & Beach Club - A Fairmont Managed Hotel
+118,Xiaoweizhai,CN,70.63,26.1903,107.5125,Haojue Business Hotel
+119,Cape town,ZA,64.11,-33.9258,18.4232,Southern Sun Waterfront Cape Town
+120,Quelimane,MZ,65.03,-17.8786,36.8883,Berta Alves Apart Hotel
+123,Yurimaguas,PE,73.96,-5.9,-76.0833,Posada Cumpanama
+124,Saint-philippe,RE,71.19,-21.3585,55.7679,Le four à pain
+130,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+131,Vaini,TO,75.96,-21.2,-175.2,Tonga South Beach House
+132,Eirunepe,BR,73.76,-6.6603,-69.8736,Pousada Novo Acre
+134,Bethel,US,64.9,41.3712,-73.414,"Holiday Inn Danbury-Bethel @ I-84, an IHG Hotel"
+135,Atuona,PF,78.48,-9.8,-139.0333,Hôtel Hiva Oa Hanakee Lodge
+136,Tabou,CI,77.04,4.423,-7.3528,Ebergement
+138,Yellowknife,CA,73.56,62.456,-114.3525,Super 8 by Wyndham Yellowknife
+140,Port macquarie,AU,68.9,-31.4333,152.9167,Macquarie Waters Boutique Apartment Hotel
+141,East london,ZA,61.0,-33.0153,27.9116,Woodleigh Guest Lodge
+142,Puerto ayora,EC,70.56,-0.7393,-90.3518,Castillo Galapagos
+143,Cidreira,BR,62.4,-30.1811,-50.2056,Apart Hotel Portuguêsa
+147,Katsuura,JP,64.42,35.1333,140.3,Katsuura Hilltop Hotel & Residence
+149,Ribeira grande,PT,65.16,38.5167,-28.7,Casa da Japoneira
+151,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+156,Nome,US,71.11,64.5011,-165.4064,Red Moose
+159,Hermanus,ZA,62.02,-34.4187,19.2345,Harbour House Hotel
+161,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+162,Bambous virieux,MU,69.22,-20.3428,57.7575,La Petite Ferme
+164,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+166,Carnarvon,AU,70.34,-24.8667,113.6333,Good Paddock Restaurant By Gascoyne Hotel
+171,Ponta do sol,CV,73.18,17.1994,-25.0919,Sintanton Trekking i
+174,Atuona,PF,78.48,-9.8,-139.0333,Hôtel Hiva Oa Hanakee Lodge
+175,Cape town,ZA,64.11,-33.9258,18.4232,Southern Sun Waterfront Cape Town
+177,Saint-philippe,RE,71.19,-21.3585,55.7679,Le four à pain
+186,Guerrero negro,MX,63.7,27.9769,-114.0611,Cowboy Grill Hotel
+187,Redencao,BR,72.27,-4.2258,-38.7306,Pousada Charm
+190,Tunceli,TR,62.83,39.1083,39.5471,Polis Evi
+191,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+192,Farafangana,MG,66.51,-22.8167,47.8333,Chez Abba
+193,Constitucion,MX,75.13,23.9912,-104.6749,Hotel White House
+197,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+200,Carballo,ES,62.29,43.213,-8.691,Hotel Mar De Queo
+206,Lamar,US,76.64,33.6668,-95.5836,Days Inn by Wyndham Paris
+207,Presidencia roque saenz pena,AR,64.2,-26.7852,-60.4388,Hotel Aconcagua
+211,Barcelos,BR,74.05,-0.9747,-62.9242,Pousada do Irmão - Grupo JEnecy
+215,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+216,Yellowknife,CA,73.56,62.456,-114.3525,Super 8 by Wyndham Yellowknife
+218,Souillac,MU,71.26,-20.5167,57.5167,Bils' Villa
+220,Laguna,BR,61.99,-28.4825,-48.7808,Hotel Samba Laguna Tourist
+228,Charters towers,AU,77.25,-20.1,146.2667,Charters Towers Tourist Park
+231,Jamestown,SH,64.02,-15.9387,-5.7168,Williams Estate
+234,Magadan,RU,69.53,59.5667,150.8,Vm-Tsentral'naya
+235,New ulm,US,63.5,44.3125,-94.4605,Microtel Inn & Suites by Wyndham New Ulm
+236,Vaini,TO,75.96,-21.2,-175.2,Tonga South Beach House
+244,Jamestown,SH,64.02,-15.9387,-5.7168,Williams Estate
+250,Atuona,PF,78.48,-9.8,-139.0333,Hôtel Hiva Oa Hanakee Lodge
+251,Puerto ayora,EC,70.56,-0.7393,-90.3518,Castillo Galapagos
+256,Hermanus,ZA,62.02,-34.4187,19.2345,Harbour House Hotel
+261,Bathsheba,BB,79.48,13.2167,-59.5167,Rest Haven Beach Cottages
+266,Yellowknife,CA,73.56,62.456,-114.3525,Super 8 by Wyndham Yellowknife
+270,Hamilton,BM,77.04,32.2915,-64.778,Hamilton Princess & Beach Club - A Fairmont Managed Hotel
+271,Kanniyakumari,IN,79.83,8.0833,77.5667,New Cape Hotel
+274,Genhe,CN,68.41,50.7833,121.5167,Tiancheng Hotel
+275,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+276,Richards bay,ZA,64.38,-28.783,32.0377,Rooibos Retreat
+279,Cape town,ZA,64.11,-33.9258,18.4232,Southern Sun Waterfront Cape Town
+283,Geraldton,AU,61.21,-28.7667,114.6,Hospitality Geraldton
+284,Sao filipe,CV,75.6,14.8961,-24.4956,Tortuga B&B - Fogo
+286,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+287,Hermanus,ZA,62.02,-34.4187,19.2345,Harbour House Hotel
+291,Jamestown,SH,64.02,-15.9387,-5.7168,Williams Estate
+292,Taltal,CL,60.58,-25.4,-70.4833,Alojamiento de Luz y Juan
+293,Saint-philippe,RE,71.19,-21.3585,55.7679,Le four à pain
+296,Puerto ayora,EC,70.56,-0.7393,-90.3518,Castillo Galapagos
+297,Vaini,TO,75.96,-21.2,-175.2,Tonga South Beach House
+303,Yellowknife,CA,73.56,62.456,-114.3525,Super 8 by Wyndham Yellowknife
+305,Ponta do sol,CV,73.18,17.1994,-25.0919,Sintanton Trekking i
+308,Lima,PE,63.9,-12.0432,-77.0282,Gran Hotel Bolivar Lima
+309,Tabas,IR,79.2,33.5959,56.9244,Aastan Ghods Inn
+314,Festus,US,76.75,38.2206,-90.396,Comfort Inn Festus-St. Louis South
+316,Theodoriana,GR,64.06,39.4356,21.21,Καταφύγιο Σταυρού Θεοδωριάνων / Stavros hut
+317,Vaini,TO,75.96,-21.2,-175.2,Tonga South Beach House
+320,Hasaki,JP,63.0,35.7333,140.8333,Gyōkeikan
+321,El rosario,SV,77.11,13.4978,-89.0297,ZOOTECHSV
+322,East london,ZA,61.0,-33.0153,27.9116,Woodleigh Guest Lodge
+323,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+325,Vaini,TO,75.96,-21.2,-175.2,Tonga South Beach House
+327,Juigalpa,NI,77.05,12.1063,-85.3645,Hotel Santa Maria Juigalpa
+329,Yellowknife,CA,73.56,62.456,-114.3525,Super 8 by Wyndham Yellowknife
+332,Half moon bay,US,76.03,37.4636,-122.4286,Half Moon Bay Lodge
+335,Mahebourg,MU,69.26,-20.4081,57.7,Le Peninsula Bay Beach Resort & Spa
+337,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+339,Mahebourg,MU,69.26,-20.4081,57.7,Le Peninsula Bay Beach Resort & Spa
+341,Saint-philippe,RE,71.19,-21.3585,55.7679,Le four à pain
+345,Hasaki,JP,63.0,35.7333,140.8333,Gyōkeikan
+355,Yellowknife,CA,73.56,62.456,-114.3525,Super 8 by Wyndham Yellowknife
+357,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+362,Beni suef,EG,77.4,29.0731,31.0979,Tulip Inn Hotel
+363,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+365,Arraial do cabo,BR,69.06,-22.9661,-42.0278,Ocean View Hotel
+367,Arraial do cabo,BR,69.06,-22.9661,-42.0278,Ocean View Hotel
+368,Bambous virieux,MU,69.22,-20.3428,57.7575,La Petite Ferme
+371,Bull savanna,JM,76.26,17.8868,-77.5902,Mr Witter
+373,Xai-xai,MZ,69.58,-25.0519,33.6442,Platinum Hotel
+374,Puerto ayora,EC,70.56,-0.7393,-90.3518,Castillo Galapagos
+375,Jaciara,BR,70.54,-15.9653,-54.9683,Pousada Rosa dos Ventos
+379,Tolon,GR,75.33,37.5202,22.8586,King Minos Hotel
+382,Petropavlovka,RU,64.78,50.6114,105.3196,"Rkdts ""Garmoniya"" Rayonyy Kul'turno-Dosugovyy Tsentr"
+386,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+390,Saldanha,ZA,63.59,-33.0117,17.9442,Saldanha Bay Hotel
+391,Tabou,CI,77.04,4.423,-7.3528,Ebergement
+392,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+394,Puerto ayora,EC,70.56,-0.7393,-90.3518,Castillo Galapagos
+396,Hualmay,PE,64.42,-11.0964,-77.6139,Hotel Restaurant Turístico Casablanca
+397,Bom jesus,BR,71.65,-9.0744,-44.3586,Hotel Familiar
+399,Westerly,US,62.22,41.3776,-71.8273,Aquastar Inn At Westerly
+400,San patricio,MX,78.91,19.2167,-104.7,Grand Isla Navidad Resort
+401,Ukiah,US,72.45,39.1502,-123.2078,SureStay Hotel by Best Western Ukiah
+404,Carnarvon,AU,70.34,-24.8667,113.6333,Good Paddock Restaurant By Gascoyne Hotel
+408,Houma,US,79.0,29.5958,-90.7195,Days Inn by Wyndham Houma LA
+409,Todos santos,MX,70.3,23.45,-110.2167,Guaycura Boutique Hotel Beach Club & Spa
+413,Mahebourg,MU,69.26,-20.4081,57.7,Le Peninsula Bay Beach Resort & Spa
+415,Kalangala,UG,71.44,-0.3089,32.225,Ssese islands adventure resort
+416,Aksay,KZ,64.94,51.1678,52.995,Altyn Shatyr Hotel and Restaurant
+417,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+419,Hermanus,ZA,62.02,-34.4187,19.2345,Harbour House Hotel
+420,Nyurba,RU,70.14,63.2842,118.3319,U Valerii
+424,Camacha,PT,62.02,33.0833,-16.3333,Hotel Praia Dourada
+425,Katsuura,JP,64.42,35.1333,140.3,Katsuura Hilltop Hotel & Residence
+426,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+427,Camacha,PT,62.02,33.0833,-16.3333,Hotel Praia Dourada
+429,Saint george,BM,76.78,32.3817,-64.6781,Grotto Bay Beach Resort & Spa
+432,Coruripe,BR,75.04,-10.1256,-36.1756,Pousada Coruripe
+435,Saint-philippe,RE,71.19,-21.3585,55.7679,Le four à pain
+439,Le port,RE,71.6,-20.9373,55.2919,Gromicile
+441,Mbandaka,CD,71.67,0.0487,18.2603,Auberge Marguerite
+450,Bambous virieux,MU,69.22,-20.3428,57.7575,La Petite Ferme
+453,Homer,US,67.77,59.6425,-151.5483,Ocean House Inn Hotel and Condos
+454,Arraial do cabo,BR,69.06,-22.9661,-42.0278,Ocean View Hotel
+461,Cape town,ZA,64.11,-33.9258,18.4232,Southern Sun Waterfront Cape Town
+462,Appingedam,NL,60.98,53.3217,6.8583,Hotel Het Wapen Van Leiden
+463,Rockhampton,AU,75.09,-23.3833,150.5,The Edge Apartment Hotel
+464,Puerto ayora,EC,70.56,-0.7393,-90.3518,Castillo Galapagos
+465,Saldanha,ZA,63.59,-33.0117,17.9442,Saldanha Bay Hotel
+466,Puerto ayora,EC,70.56,-0.7393,-90.3518,Castillo Galapagos
+471,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+472,Iquitos,PE,77.04,-3.7481,-73.2472,Casa Morey Hotel & Restaurant
+473,Shingu,JP,64.67,33.7333,135.9833,Shingu Central Hotel
+475,Lagos,PT,62.98,37.102,-8.6742,Boavista Golf & Spa Resort
+478,Alofi,NU,79.72,-19.0595,-169.9187,Pellenis Guesthouse
+480,Lagoa,PT,63.93,39.05,-27.9833,Graciosa Resort - Biosphere Island Hotel
+482,Yellowknife,CA,73.56,62.456,-114.3525,Super 8 by Wyndham Yellowknife
+483,Fairbanks,US,73.6,64.8378,-147.7164,Clarion Hotel & Suites Fairbanks near Ft. Wainwright
+484,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+487,Vaini,TO,75.96,-21.2,-175.2,Tonga South Beach House
+489,Hualmay,PE,64.42,-11.0964,-77.6139,Hotel Restaurant Turístico Casablanca
+490,Naze,JP,73.63,28.3667,129.4833,Amami Port Tower Hotel
+492,Saldanha,ZA,63.59,-33.0117,17.9442,Saldanha Bay Hotel
+495,Ahipara,NZ,63.07,-35.1667,173.1667,The Huts
+496,Souillac,MU,71.26,-20.5167,57.5167,Bils' Villa
+497,Saint george,BM,76.78,32.3817,-64.6781,Grotto Bay Beach Resort & Spa
+499,Katsuura,JP,64.42,35.1333,140.3,Katsuura Hilltop Hotel & Residence
+500,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+501,Sao filipe,CV,75.6,14.8961,-24.4956,Tortuga B&B - Fogo
+502,Ericeira,PT,63.3,38.9627,-9.4156,Hotel Vila Galé Ericeira
+504,Jamestown,SH,64.02,-15.9387,-5.7168,Williams Estate
+507,Nanga eboko,CM,67.77,4.6833,12.3667,Motel La Grace
+511,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+512,Yellowknife,CA,73.56,62.456,-114.3525,Super 8 by Wyndham Yellowknife
+513,Atuona,PF,78.48,-9.8,-139.0333,Hôtel Hiva Oa Hanakee Lodge
+514,Mahon,ES,68.56,39.8885,4.2658,Hotel Catalonia Mirador des Port
+515,Saint-philippe,RE,71.19,-21.3585,55.7679,Le four à pain
+516,Huarmey,PE,65.98,-10.0681,-78.1522,Los Faroles
+518,Saldanha,ZA,63.59,-33.0117,17.9442,Saldanha Bay Hotel
+519,Cape town,ZA,64.11,-33.9258,18.4232,Southern Sun Waterfront Cape Town
+520,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+522,Hermanus,ZA,62.02,-34.4187,19.2345,Harbour House Hotel
+523,Bethel,US,64.9,41.3712,-73.414,"Holiday Inn Danbury-Bethel @ I-84, an IHG Hotel"
+525,Vaini,TO,75.96,-21.2,-175.2,Tonga South Beach House
+528,Namibe,AO,71.96,-15.1961,12.1522,Hotel ibis Styles Iu Namibe
+533,Vaini,TO,75.96,-21.2,-175.2,Tonga South Beach House
+535,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+537,Yellowknife,CA,73.56,62.456,-114.3525,Super 8 by Wyndham Yellowknife
+540,Jamestown,SH,64.02,-15.9387,-5.7168,Williams Estate
+546,Santo antonio da charneca,PT,63.09,38.6256,-9.0304,Residencial Santo André
+547,Jamestown,SH,64.02,-15.9387,-5.7168,Williams Estate
+549,Saint-philippe,RE,71.19,-21.3585,55.7679,Le four à pain
+551,Presidencia roque saenz pena,AR,64.2,-26.7852,-60.4388,Hotel Aconcagua
+555,Cape town,ZA,64.11,-33.9258,18.4232,Southern Sun Waterfront Cape Town
+556,Soyo,AO,73.04,-6.1349,12.3689,Hospedaria ndozi'ame
+561,Yenagoa,NG,72.14,4.9247,6.2642,Amba Hotels Limited
+564,Mindelo,CV,72.95,16.8901,-24.9804,"Kira's Boutique Hotel, Lda"
+567,Matay,EG,78.22,28.419,30.7792,منزل عمر عاشور آل علام الدولي
+568,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+569,Bambous virieux,MU,69.22,-20.3428,57.7575,La Petite Ferme
+575,Santa maria,CV,72.19,16.6,-22.9,Hotel Central - Santa Maria
+577,Goianesia,BR,68.58,-15.3175,-49.1175,Planalto's Palace Hotel
+583,Bubaque,GW,79.81,11.2833,-15.8333,Aparthotel Cruz Pontes
+585,Hermanus,ZA,62.02,-34.4187,19.2345,Harbour House Hotel
+587,Carnarvon,AU,70.34,-24.8667,113.6333,Good Paddock Restaurant By Gascoyne Hotel
+591,Roma,AU,64.18,-26.5833,148.7833,Motel Carnarvon Roma
+592,Gannan,CN,67.05,47.9147,123.5031,Gannan Hotel
+593,Hermanus,ZA,62.02,-34.4187,19.2345,Harbour House Hotel
+594,Irugur,IN,79.03,11.0167,77.0667,RJP HOTEL
+599,Puerto ayora,EC,70.56,-0.7393,-90.3518,Castillo Galapagos
+601,Jamestown,SH,64.02,-15.9387,-5.7168,Williams Estate
+604,Zhaoyuan,CN,72.52,37.3592,120.3964,Nine Nine Business Hotel
+609,Ribeira grande,PT,65.16,38.5167,-28.7,Casa da Japoneira
+611,Khash,IR,69.87,28.2211,61.2158,خانه شاهزاده رضا
+612,Bethel,US,64.9,41.3712,-73.414,"Holiday Inn Danbury-Bethel @ I-84, an IHG Hotel"
+613,Puerto ayora,EC,70.56,-0.7393,-90.3518,Castillo Galapagos
+614,Hermanus,ZA,62.02,-34.4187,19.2345,Harbour House Hotel
+616,Lompoc,US,77.77,34.6391,-120.4579,O'Cairns Inn & Suites
+618,San patricio,MX,78.91,19.2167,-104.7,Grand Isla Navidad Resort
+621,Ambovombe,MG,66.29,-25.1667,46.0833,MONJA Talilisoa
+622,Ambilobe,MG,65.46,-13.2,49.05,Hotel National
+626,Sitka,US,60.69,57.0531,-135.33,Aspen Suites Hotel Sitka
+628,Hermanus,ZA,62.02,-34.4187,19.2345,Harbour House Hotel
+638,Saint george,BM,76.78,32.3817,-64.6781,Grotto Bay Beach Resort & Spa
+640,Laguna,BR,61.99,-28.4825,-48.7808,Hotel Samba Laguna Tourist
+641,Suez,EG,71.1,29.9737,32.5263,Rezora Pharaoh's Bath Resort
+643,Sri aman,MY,79.66,1.2376,111.4621,Regent Inn - Sri Aman Hotel
+646,Grand gaube,MU,69.39,-20.0064,57.6608,Zilwa Attitude Hotel
+652,Effingham,US,76.95,32.3669,-81.3332,Elizabeth Hobbs
+653,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+654,Jamestown,SH,64.02,-15.9387,-5.7168,Williams Estate
+659,Nortelandia,BR,75.13,-14.4547,-56.8028,Hotel Karysmã
+662,East london,ZA,61.0,-33.0153,27.9116,Woodleigh Guest Lodge
+666,Hermanus,ZA,62.02,-34.4187,19.2345,Harbour House Hotel
+673,Atuona,PF,78.48,-9.8,-139.0333,Hôtel Hiva Oa Hanakee Lodge
+676,Ponta do sol,CV,73.18,17.1994,-25.0919,Sintanton Trekking i
+679,Hasaki,JP,63.0,35.7333,140.8333,Gyōkeikan
+680,Cape town,ZA,64.11,-33.9258,18.4232,Southern Sun Waterfront Cape Town
+683,Jamestown,SH,64.02,-15.9387,-5.7168,Williams Estate
+685,Saldanha,ZA,63.59,-33.0117,17.9442,Saldanha Bay Hotel
+686,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+687,Havelock,US,73.94,34.8791,-76.9013,Days Inn
+688,Atuona,PF,78.48,-9.8,-139.0333,Hôtel Hiva Oa Hanakee Lodge
+690,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+693,Huarmey,PE,65.98,-10.0681,-78.1522,Los Faroles
+696,Atuona,PF,78.48,-9.8,-139.0333,Hôtel Hiva Oa Hanakee Lodge
+702,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+704,Takoradi,GH,76.57,4.8845,-1.7554,Grand Favour Hotel
+705,Saint-philippe,RE,71.19,-21.3585,55.7679,Le four à pain
+706,Dondo,MZ,61.41,-19.6094,34.7431,Armazem
+711,Sayyan,YE,60.31,15.1718,44.3244,متنزه و بحيرة سيان
+712,Hermanus,ZA,62.02,-34.4187,19.2345,Harbour House Hotel
+715,Jamestown,SH,64.02,-15.9387,-5.7168,Williams Estate
+716,Saint-philippe,RE,71.19,-21.3585,55.7679,Le four à pain
+718,Jamestown,SH,64.02,-15.9387,-5.7168,Williams Estate
+719,East london,ZA,61.0,-33.0153,27.9116,Woodleigh Guest Lodge
+723,Saint-philippe,RE,71.19,-21.3585,55.7679,Le four à pain
+726,Bengkulu,ID,79.65,-3.8004,102.2655,Splash Hotel Bengkulu
+727,Cape town,ZA,64.11,-33.9258,18.4232,Southern Sun Waterfront Cape Town
+729,Cape town,ZA,64.11,-33.9258,18.4232,Southern Sun Waterfront Cape Town
+731,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+737,Tutoia,BR,76.06,-2.7619,-42.2744,Tutóia Pousada Vila Beach
+739,Mapiripan,CO,72.86,2.8892,-72.1256,Residencias Mapiri
+742,Celestun,MX,79.48,20.8667,-90.4,Hotel Maria del Carmen
+744,Celestun,MX,79.48,20.8667,-90.4,Hotel Maria del Carmen
+745,Cape town,ZA,64.11,-33.9258,18.4232,Southern Sun Waterfront Cape Town
+748,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+750,Cape town,ZA,64.11,-33.9258,18.4232,Southern Sun Waterfront Cape Town
+751,Khash,IR,69.87,28.2211,61.2158,خانه شاهزاده رضا
+754,Bethel,US,64.9,41.3712,-73.414,"Holiday Inn Danbury-Bethel @ I-84, an IHG Hotel"
+755,Souillac,MU,71.26,-20.5167,57.5167,Bils' Villa
+759,Korla,CN,78.06,41.7597,86.1469,Lavande Hotel Korla Shihua Avenue
+760,Hermanus,ZA,62.02,-34.4187,19.2345,Harbour House Hotel
+763,Grand forks,US,62.33,47.9417,-97.4337,Gray Hall
+765,Ulaangom,MN,60.57,49.9811,92.0667,Sarnai restaurant&hotel
+766,Bethel,US,64.9,41.3712,-73.414,"Holiday Inn Danbury-Bethel @ I-84, an IHG Hotel"
+769,Lagoa,PT,63.93,39.05,-27.9833,Graciosa Resort - Biosphere Island Hotel
+771,Jamestown,SH,64.02,-15.9387,-5.7168,Williams Estate
+772,Uji,JP,73.09,34.8833,135.8,Uji Daiichi Hotel
+773,Jamestown,SH,64.02,-15.9387,-5.7168,Williams Estate
+777,Saint george,BM,76.78,32.3817,-64.6781,Grotto Bay Beach Resort & Spa
+786,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+787,Jamestown,SH,64.02,-15.9387,-5.7168,Williams Estate
+791,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+793,Puerto ayora,EC,70.56,-0.7393,-90.3518,Castillo Galapagos
+795,Bowen,AU,77.68,-20.0167,148.2333,Bluewater Harbour Motel
+796,Bubaque,GW,79.81,11.2833,-15.8333,Aparthotel Cruz Pontes
+800,Jamestown,SH,64.02,-15.9387,-5.7168,Williams Estate
+801,Hailar,CN,63.75,49.2,119.7,Hulunber Old City Homestay
+802,Alta floresta,BR,71.51,-9.8756,-56.0861,Hotel Estoril
+807,Hermanus,ZA,62.02,-34.4187,19.2345,Harbour House Hotel
+808,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+813,Neiafu,TO,79.48,-18.65,-173.9833,Vava'u Villa
+816,Yellowknife,CA,73.56,62.456,-114.3525,Super 8 by Wyndham Yellowknife
+819,Saint-paul,RE,71.71,-21.0096,55.2707,Chambre à louer vue mer
+821,East london,ZA,61.0,-33.0153,27.9116,Woodleigh Guest Lodge
+826,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+829,Atuona,PF,78.48,-9.8,-139.0333,Hôtel Hiva Oa Hanakee Lodge
+830,Homer,US,67.77,59.6425,-151.5483,Ocean House Inn Hotel and Condos
+834,Filadelfia,PY,75.22,-22.35,-60.0333,Hotel Golondrina
+835,Hasaki,JP,63.0,35.7333,140.8333,Gyōkeikan
+836,Fairbanks,US,73.6,64.8378,-147.7164,Clarion Hotel & Suites Fairbanks near Ft. Wainwright
+837,Inhambane,MZ,69.58,-23.865,35.3833,O Rouxinol
+840,Craig,US,64.35,40.5153,-107.5464,-Travelers Inn & Suites-Craig
+842,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+843,Saint-philippe,RE,71.19,-21.3585,55.7679,Le four à pain
+848,Tarancon,ES,62.49,40.0085,-3.0073,Hostal La Estación
+851,Izumo,JP,65.84,35.3667,132.7667,Hotel Takeshi Sanso Japanese Hotel
+861,Yellowknife,CA,73.56,62.456,-114.3525,Super 8 by Wyndham Yellowknife
+862,Jamestown,SH,64.02,-15.9387,-5.7168,Williams Estate
+863,Yellowknife,CA,73.56,62.456,-114.3525,Super 8 by Wyndham Yellowknife
+865,Bethel,US,64.9,41.3712,-73.414,"Holiday Inn Danbury-Bethel @ I-84, an IHG Hotel"
+868,Bardiyah,LY,71.38,31.7561,25.0865,Hotel Burdy
+871,Jamestown,SH,64.02,-15.9387,-5.7168,Williams Estate
+877,Alta floresta,BR,71.51,-9.8756,-56.0861,Hotel Estoril
+878,Bathsheba,BB,79.48,13.2167,-59.5167,Rest Haven Beach Cottages
+880,Zanjan,IR,66.33,36.6736,48.4787,Park Hotel
+884,Atuona,PF,78.48,-9.8,-139.0333,Hôtel Hiva Oa Hanakee Lodge
+885,Puerto ayora,EC,70.56,-0.7393,-90.3518,Castillo Galapagos
+887,Ribeira grande,PT,65.16,38.5167,-28.7,Casa da Japoneira
+888,Aquiraz,BR,77.09,-3.9014,-38.3911,Solarium
+890,Kingaroy,AU,60.91,-26.5333,151.8333,Kingaroy Country Motel
+893,Pangai,TO,78.3,-19.8,-174.35,Fifita Guesthouse
+899,Merke,KZ,71.24,42.8728,73.1786,Gostinitsa
+904,Zeya,RU,79.11,53.75,127.2667,Hotel North Pearl
+907,Ponta do sol,CV,73.18,17.1994,-25.0919,Sintanton Trekking i
+909,Praia,CV,73.94,14.9215,-23.5087,Sol Hotel
+913,Taksimo,RU,66.38,56.3444,114.8794,"Gostinitsa ""Viktoriya"""
+915,Naze,JP,73.63,28.3667,129.4833,Amami Port Tower Hotel
+920,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+927,Ingham,AU,79.95,-18.65,146.1667,Ingham Herbert Valley Motel
+928,Atuona,PF,78.48,-9.8,-139.0333,Hôtel Hiva Oa Hanakee Lodge
+930,Atuona,PF,78.48,-9.8,-139.0333,Hôtel Hiva Oa Hanakee Lodge
+932,Ust-nera,RU,69.6,64.5667,143.2,Solnechnaya
+933,Santa cruz,CR,79.16,10.2605,-85.5851,Cabinas Las Tecas
+934,Gold coast,AU,69.78,-28.0,153.4333,Beachcomber Surfers Paradise
+937,Tumaco,CO,76.08,1.7986,-78.8156,Hotel los mellizos
+940,Iquique,CL,60.84,-20.2208,-70.1431,Hotel Barros Arana
+941,Fortuna,US,63.52,40.5982,-124.1573,"The Redwood Riverwalk, A Boutique Motel"
+942,Vaini,TO,75.96,-21.2,-175.2,Tonga South Beach House
+947,Saldanha,ZA,63.59,-33.0117,17.9442,Saldanha Bay Hotel
+948,Yeppoon,AU,74.98,-23.1333,150.7333,Surfside Motel
+950,Vaini,TO,75.96,-21.2,-175.2,Tonga South Beach House
+953,Luanda,AO,69.51,-8.8368,13.2343,Skyna Hotel Luanda
+954,Yellowknife,CA,73.56,62.456,-114.3525,Super 8 by Wyndham Yellowknife
+956,Princeton,CA,60.21,49.458,-120.5108,Canadas Best Value Inn & Suites Princeton
+957,Atuona,PF,78.48,-9.8,-139.0333,Hôtel Hiva Oa Hanakee Lodge
+961,Touros,BR,75.38,-5.1989,-35.4608,Bugaendrus Paradise
+965,Jacareacanga,BR,71.35,-6.2222,-57.7528,Zé Prata
+966,Victoria,SC,78.06,-4.6167,55.45,Hilton Seychelles Northolme Resort & Spa
+967,Centenario do sul,BR,63.16,-22.8211,-51.5953,Hotel Real Spin 2
+969,Buraydah,SA,77.45,26.326,43.975,فندق راحة السلام
+970,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+974,Ketchikan,US,63.07,55.3422,-131.6461,Super 8 by Wyndham Ketchikan
+975,East london,ZA,61.0,-33.0153,27.9116,Woodleigh Guest Lodge
+980,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+981,Ponta do sol,CV,73.18,17.1994,-25.0919,Sintanton Trekking i
+987,Ponta do sol,PT,64.71,32.6667,-17.1,Enotel Sunset Bay
+988,Victoria,SC,78.06,-4.6167,55.45,Hilton Seychelles Northolme Resort & Spa
+991,Ribeira grande,PT,65.16,38.5167,-28.7,Casa da Japoneira
+992,Vila franca do campo,PT,70.2,37.7167,-25.4333,Place of Moments
+995,Vaini,TO,75.96,-21.2,-175.2,Tonga South Beach House
+999,Axim,GH,76.82,4.8699,-2.2405,Axim Beach Resort & Spa
+1002,Mahebourg,MU,71.89,-20.4081,57.7,Le Peninsula Bay Beach Resort & Spa
+1003,Constitucion,MX,75.13,23.9912,-104.6749,Hotel White House
+1006,Bubaque,GW,79.81,11.2833,-15.8333,Aparthotel Cruz Pontes
+1011,Jamestown,SH,64.02,-15.9387,-5.7168,Williams Estate
+1012,Atuona,PF,78.48,-9.8,-139.0333,Hôtel Hiva Oa Hanakee Lodge
+1016,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+1018,Salcia,RO,64.4,44.1408,22.9278,Agropensiune Turistica Salcia
+1020,San-pedro,CI,76.75,4.7485,-6.6363,La Case de Tiho
+1024,Hermanus,ZA,62.02,-34.4187,19.2345,Harbour House Hotel
+1030,Atuona,PF,78.48,-9.8,-139.0333,Hôtel Hiva Oa Hanakee Lodge
+1032,Saint george,BM,76.78,32.3817,-64.6781,Grotto Bay Beach Resort & Spa
+1035,Jamestown,SH,64.02,-15.9387,-5.7168,Williams Estate
+1036,Pacific grove,US,71.28,36.6177,-121.9166,"InterContinental the Clement Monterey, an IHG Hotel"
+1037,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+1043,Victoria,SC,78.06,-4.6167,55.45,Hilton Seychelles Northolme Resort & Spa
+1044,Hasaki,JP,63.0,35.7333,140.8333,Gyōkeikan
+1051,Jamestown,SH,64.02,-15.9387,-5.7168,Williams Estate
+1052,Zivinice,BA,64.62,44.4494,18.6497,Sobe Prenociste
+1059,Hilton head island,US,79.99,32.2163,-80.7526,Days Inn by Wyndham Hilton Head
+1062,Saint-philippe,RE,71.19,-21.3585,55.7679,Le four à pain
+1063,Karratha,AU,73.06,-20.7377,116.8463,Karratha International Hotel
+1064,Katsuura,JP,64.42,35.1333,140.3,Katsuura Hilltop Hotel & Residence
+1068,Cape town,ZA,64.11,-33.9258,18.4232,Southern Sun Waterfront Cape Town
+1069,Vaini,TO,75.96,-21.2,-175.2,Tonga South Beach House
+1071,Darnah,LY,73.87,32.767,22.6367,زاوية الرفاعي
+1072,Tezu,IN,74.03,27.9167,96.1667,DUDA Lodge / Hotel
+1073,Bambous virieux,MU,69.22,-20.3428,57.7575,La Petite Ferme
+1075,Ahipara,NZ,63.07,-35.1667,173.1667,The Huts
+1078,Bambous virieux,MU,69.22,-20.3428,57.7575,La Petite Ferme
+1079,Sao filipe,CV,75.6,14.8961,-24.4956,Tortuga B&B - Fogo
+1080,Buraydah,SA,77.45,26.326,43.975,فندق راحة السلام
+1083,Vaini,TO,75.96,-21.2,-175.2,Tonga South Beach House
+1084,Opunake,NZ,65.12,-39.4556,173.8583,The Lighthouse
+1091,Tymovskoye,RU,68.13,50.8456,142.655,"Khostel ""Kak Doma"""
+1092,Puerto ayora,EC,70.56,-0.7393,-90.3518,Castillo Galapagos
+1093,Hasaki,JP,63.0,35.7333,140.8333,Gyōkeikan
+1095,Cape town,ZA,64.11,-33.9258,18.4232,Southern Sun Waterfront Cape Town
+1103,Seoul,KR,63.79,37.5683,126.9778,Hotel Irene City
+1105,San jose,BO,69.6,-17.9389,-63.3516,Alojamiento Dulce Sueño
+1106,Jamestown,SH,64.02,-15.9387,-5.7168,Williams Estate
+1108,Isangel,VU,79.99,-19.55,169.2667,Volcano Sea View Tree House
+1110,Jamestown,SH,64.02,-15.9387,-5.7168,Williams Estate
+1118,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+1119,Vaini,TO,75.96,-21.2,-175.2,Tonga South Beach House
+1121,Elizabeth city,US,69.82,36.2946,-76.2511,Fairfield Inn & Suites by Marriott Elizabeth City
+1123,Yellowknife,CA,73.56,62.456,-114.3525,Super 8 by Wyndham Yellowknife
+1127,Nome,US,70.16,64.5011,-165.4064,Red Moose
+1129,Yellowknife,CA,73.56,62.456,-114.3525,Super 8 by Wyndham Yellowknife
+1130,Naze,JP,73.63,28.3667,129.4833,Amami Port Tower Hotel
+1131,Ketchikan,US,63.07,55.3422,-131.6461,Super 8 by Wyndham Ketchikan
+1132,Jamestown,SH,64.02,-15.9387,-5.7168,Williams Estate
+1133,Cape town,ZA,64.11,-33.9258,18.4232,Southern Sun Waterfront Cape Town
+1135,San cristobal,EC,72.84,-0.9045,-89.6174,Royal Galápagos Inn
+1140,Saint george,BM,76.78,32.3817,-64.6781,Grotto Bay Beach Resort & Spa
+1141,Kulu,TR,60.66,39.0951,33.0799,Hotel Yücel
+1142,Sao luiz gonzaga,BR,62.67,-28.4083,-54.9608,Hotel Mário
+1144,Cape town,ZA,64.11,-33.9258,18.4232,Southern Sun Waterfront Cape Town
+1146,Vaini,TO,75.96,-21.2,-175.2,Tonga South Beach House
+1151,Forio,IT,77.52,40.7342,13.8646,Hotel Terme Colella
+1152,Bengkulu,ID,79.65,-3.8004,102.2655,Splash Hotel Bengkulu
+1154,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+1158,Luderitz,,69.4,-26.6481,15.1594,Lüderitz Zum Sperrgebiet
+1159,Cape town,ZA,64.11,-33.9258,18.4232,Southern Sun Waterfront Cape Town
+1164,Shahrud,IR,73.99,36.4182,54.9763,Shahroud University Dormitory
+1166,Caravelas,BR,70.5,-17.7125,-39.2481,Pousada Tropical
+1168,Saint-philippe,RE,71.19,-21.3585,55.7679,Le four à pain
+1173,Ribeira grande,PT,65.16,38.5167,-28.7,Casa da Japoneira
+1176,Kloulklubed,PW,75.7,7.0419,134.2556,Reiko's Inn
+1178,Saint-philippe,RE,71.19,-21.3585,55.7679,Le four à pain
+1179,Iguape,BR,64.36,-24.7081,-47.5553,Pousada Borboleta Azul
+1186,Yellowknife,CA,73.56,62.456,-114.3525,Super 8 by Wyndham Yellowknife
+1187,Fort dodge,US,64.53,42.4975,-94.168,Economy Inn
+1194,Vaini,TO,75.96,-21.2,-175.2,Tonga South Beach House
+1198,Yellowknife,CA,73.56,62.456,-114.3525,Super 8 by Wyndham Yellowknife
+1200,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+1201,Cape town,ZA,64.11,-33.9258,18.4232,Southern Sun Waterfront Cape Town
+1202,Port-gentil,GA,75.63,-0.7193,8.7815,Hotel du Littoral
+1205,Atuona,PF,78.48,-9.8,-139.0333,Hôtel Hiva Oa Hanakee Lodge
+1206,Praia da vitoria,PT,64.76,38.7333,-27.0667,Espirito Santo Hotel
+1210,Kurumkan,RU,62.22,54.3,110.3,Gostevoy Dom Vista
+1211,East london,ZA,61.0,-33.0153,27.9116,Woodleigh Guest Lodge
+1212,La romana,DO,79.16,18.4273,-68.9728,Hotel River View
+1214,Robertsport,LR,78.46,6.7533,-11.3686,Gertrude’s Oceanview Beach Resort
+1221,Kalmunai,LK,79.65,7.4167,81.8167,Super Star Tourist Inn (Pvt) Ltd
+1222,Ponta do sol,CV,73.18,17.1994,-25.0919,Sintanton Trekking i
+1227,Pisco,PE,65.01,-13.7,-76.2167,Hosteria del Monasterio
+1228,Vaini,TO,75.96,-21.2,-175.2,Tonga South Beach House
+1230,Canutama,BR,73.09,-6.5339,-64.3831,Pousada Deus é Fiél
+1231,Touros,BR,75.38,-5.1989,-35.4608,Bugaendrus Paradise
+1232,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+1237,Winnemucca,US,66.25,40.973,-117.7357,"Motel 6 Winnemucca, NV"
+1240,Puerto ayora,EC,70.56,-0.7393,-90.3518,Castillo Galapagos
+1244,Borgo san dalmazzo,IT,63.14,44.333,7.4858,Hotel Ristorante Belsito
+1248,Laguna,BR,61.99,-28.4825,-48.7808,Hotel Samba Laguna Tourist
+1253,Hami,CN,79.5,42.8,93.45,Zhenxin Rest House
+1254,Jamestown,SH,64.02,-15.9387,-5.7168,Williams Estate
+1256,Pisco,PE,65.01,-13.7,-76.2167,Hosteria del Monasterio
+1257,Jamestown,SH,64.02,-15.9387,-5.7168,Williams Estate
+1266,Carnarvon,AU,70.34,-24.8667,113.6333,Good Paddock Restaurant By Gascoyne Hotel
+1267,Hermanus,ZA,62.02,-34.4187,19.2345,Harbour House Hotel
+1271,Katsuura,JP,64.42,35.1333,140.3,Katsuura Hilltop Hotel & Residence
+1272,Mocuba,MZ,61.99,-16.8392,36.9856,Alojamento Nihia
+1274,Takoradi,GH,76.57,4.8845,-1.7554,Grand Favour Hotel
+1276,Yellowknife,CA,73.56,62.456,-114.3525,Super 8 by Wyndham Yellowknife
+1277,Cidreira,BR,62.4,-30.1811,-50.2056,Apart Hotel Portuguêsa
+1280,East london,ZA,61.0,-33.0153,27.9116,Woodleigh Guest Lodge
+1282,Puerto ayora,EC,70.56,-0.7393,-90.3518,Castillo Galapagos
+1284,Sao filipe,CV,75.6,14.8961,-24.4956,Tortuga B&B - Fogo
+1288,Carnarvon,AU,70.34,-24.8667,113.6333,Good Paddock Restaurant By Gascoyne Hotel
+1289,Henties bay,,72.73,-22.116,14.2845,Ulala Accommodation
+1291,East london,ZA,61.0,-33.0153,27.9116,Woodleigh Guest Lodge
+1292,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+1296,Gloria do goita,BR,73.54,-8.0017,-35.2928,Pousada Trevão
+1297,Marienburg,SR,75.99,5.8469,-55.0216,dolphins resort
+1298,Ust-nera,RU,69.6,64.5667,143.2,Solnechnaya
+1300,Tongzi,CN,71.71,28.7829,105.0877,Decai Hotel
+1301,Slave lake,CA,63.59,55.2834,-114.769,"Holiday Inn Express & Suites Slave Lake, an IHG Hotel"
+1303,Sitka,US,60.69,57.0531,-135.33,Aspen Suites Hotel Sitka
+1304,Olinda,BR,74.93,-8.0089,-34.8553,Hotel 5 Sóis
+1305,Hasaki,JP,63.0,35.7333,140.8333,Gyōkeikan
+1306,Sao filipe,CV,75.6,14.8961,-24.4956,Tortuga B&B - Fogo
+1310,Carutapera,BR,74.98,-1.195,-46.02,LIDERA Lançamentos e Incorporações
+1311,Pahalgam,IN,61.48,34.0333,75.3333,Hotel Pine Spring
+1312,Hermanus,ZA,62.02,-34.4187,19.2345,Harbour House Hotel
+1313,Saldanha,ZA,63.59,-33.0117,17.9442,Saldanha Bay Hotel
+1315,Touros,BR,75.38,-5.1989,-35.4608,Bugaendrus Paradise
+1320,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+1322,Taksimo,RU,66.38,56.3444,114.8794,"Gostinitsa ""Viktoriya"""
+1327,Atuona,PF,78.48,-9.8,-139.0333,Hôtel Hiva Oa Hanakee Lodge
+1328,Lashio,MM,75.13,22.9333,97.75,Golden Kinnara Hotel
+1330,Impfondo,CG,70.65,1.6381,18.0667,Le tropicana
+1332,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+1338,Puerto ayora,EC,70.56,-0.7393,-90.3518,Castillo Galapagos
+1339,Hualmay,PE,64.42,-11.0964,-77.6139,Hotel Restaurant Turístico Casablanca
+1341,Atuona,PF,78.48,-9.8,-139.0333,Hôtel Hiva Oa Hanakee Lodge
+1343,Talara,PE,65.12,-4.5772,-81.2719,Inkawasi Lobitos
+1348,Jamestown,SH,64.02,-15.9387,-5.7168,Williams Estate
+1350,Vaini,TO,75.96,-21.2,-175.2,Tonga South Beach House
+1353,Port macquarie,AU,68.9,-31.4333,152.9167,Macquarie Waters Boutique Apartment Hotel
+1359,Saint-philippe,RE,71.19,-21.3585,55.7679,Le four à pain
+1360,Harper,LR,77.88,4.375,-7.7169,Cape View Guest House
+1361,Huntsville,US,75.85,34.7304,-86.5861,SpringHill Suites by Marriott Huntsville Downtown
+1362,Puerto ayora,EC,70.56,-0.7393,-90.3518,Castillo Galapagos
+1363,Montepuez,MZ,62.89,-13.1256,38.9997,Complexo Messalo
+1364,Salamiyah,SY,64.24,35.0113,37.0532,حي القصور
+1365,Takoradi,GH,76.57,4.8845,-1.7554,Grand Favour Hotel
+1373,Palmer,US,61.97,42.1584,-72.3287,The Trainmaster's Inn
+1375,Hermanus,ZA,62.02,-34.4187,19.2345,Harbour House Hotel
+1379,Bardiyah,LY,71.38,31.7561,25.0865,Hotel Burdy
+1380,Hailar,CN,63.75,49.2,119.7,Hulunber Old City Homestay
+1381,Brejo da madre de deus,BR,66.0,-8.1458,-36.3711,Pousada Madre de Deus
+1383,Dongsheng,CN,67.6,39.8161,109.9776,Wenlan Hotel
+1385,Brigantine,US,64.02,39.4101,-74.3646,La Sammana
+1391,Cape town,ZA,64.11,-33.9258,18.4232,Southern Sun Waterfront Cape Town
+1392,Cidreira,BR,62.4,-30.1811,-50.2056,Apart Hotel Portuguêsa
+1398,Jalu,LY,78.06,29.0331,21.5482,Jalu Hotel
+1399,Manta,EC,73.18,-0.95,-80.7333,Hotel LUN FUN Manta
+1402,Touros,BR,75.38,-5.1989,-35.4608,Bugaendrus Paradise
+1407,Bengkulu,ID,79.65,-3.8004,102.2655,Splash Hotel Bengkulu
+1410,Vao,NC,73.36,-22.6667,167.4833,OURE TERA beach resort
+1411,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+1413,Nelson bay,AU,61.11,-32.7167,152.15,Halifax Holiday Park
+1414,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+1415,Bafq,IR,77.49,31.6128,55.4107,Nikan Hotel
+1417,Arraial do cabo,BR,69.06,-22.9661,-42.0278,Ocean View Hotel
+1421,Sangre grande,TT,76.96,10.5835,-61.1177,Double Palm Inn
+1423,Praia da vitoria,PT,64.76,38.7333,-27.0667,Espirito Santo Hotel
+1425,Lagoa,PT,63.93,39.05,-27.9833,Graciosa Resort - Biosphere Island Hotel
+1426,College,US,73.58,64.8569,-147.8028,Best Western Plus Chena River Lodge
+1427,Cape town,ZA,64.11,-33.9258,18.4232,Southern Sun Waterfront Cape Town
+1428,Saint-philippe,RE,71.19,-21.3585,55.7679,Le four à pain
+1431,Chase,CA,67.08,50.8165,-119.6857,Shuswap Sands Mobile Home Park
+1432,Sao felix do xingu,BR,69.89,-6.6447,-51.995,Aparte Hotel Rio Xingu
+1445,San joaquin,BO,74.48,-16.3829,-58.3947,Hotel Pantanal San Matias
+1447,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+1448,Vila franca do campo,PT,70.2,37.7167,-25.4333,Place of Moments
+1449,Puerto ayora,EC,70.56,-0.7393,-90.3518,Castillo Galapagos
+1450,Ketchikan,US,63.07,55.3422,-131.6461,Super 8 by Wyndham Ketchikan
+1452,Aberdeen,US,63.3,45.4647,-98.4865,Quality Inn Aberdeen
+1455,Zhob,PK,78.76,31.3411,69.4481,Cooperative office zhob
+1457,Guerrero negro,MX,63.7,27.9769,-114.0611,Cowboy Grill Hotel
+1461,Pocatello,US,65.17,42.8713,-112.4455,Hampton Inn & Suites Pocatello
+1463,Vaini,TO,75.96,-21.2,-175.2,Tonga South Beach House
+1465,Mayskiy,RU,60.21,47.6931,40.1025,Миниотель
+1466,Jumla,NP,66.42,29.2747,82.1838,Famous bhutuwa corner
+1468,Mahebourg,MU,71.89,-20.4081,57.7,Le Peninsula Bay Beach Resort & Spa
+1470,Carnarvon,AU,70.34,-24.8667,113.6333,Good Paddock Restaurant By Gascoyne Hotel
+1471,Katsuura,JP,64.42,35.1333,140.3,Katsuura Hilltop Hotel & Residence
+1474,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+1478,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+1482,Victoria,SC,78.06,-4.6167,55.45,Hilton Seychelles Northolme Resort & Spa
+1495,Ahipara,NZ,63.07,-35.1667,173.1667,The Huts
+1496,Saldanha,ZA,63.59,-33.0117,17.9442,Saldanha Bay Hotel
+1498,San cristobal,EC,72.84,-0.9045,-89.6174,Royal Galápagos Inn
+1502,Kintampo,GH,70.65,8.0563,-1.7306,Midway Hotel
+1503,Hamilton,BM,77.04,32.2915,-64.778,Hamilton Princess & Beach Club - A Fairmont Managed Hotel
+1504,Luderitz,,69.4,-26.6481,15.1594,Lüderitz Zum Sperrgebiet
+1508,Placido de castro,BR,77.18,-10.3353,-67.1856,Hotel Califórnia
+1512,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+1514,Saint-philippe,RE,71.19,-21.3585,55.7679,Le four à pain
+1519,Hami,CN,79.5,42.8,93.45,Zhenxin Rest House
+1523,Saint-philippe,RE,71.19,-21.3585,55.7679,Le four à pain
+1526,Vaini,TO,75.96,-21.2,-175.2,Tonga South Beach House
+1527,East london,ZA,61.0,-33.0153,27.9116,Woodleigh Guest Lodge
+1529,Vao,NC,73.36,-22.6667,167.4833,OURE TERA beach resort
+1535,Mareeba,AU,79.66,-17.0,145.4333,Mareeba Motor Inn
+1537,Ponnani,IN,76.32,10.767,75.9252,Chakravarthy Lodge
+1540,Ketchikan,US,63.07,55.3422,-131.6461,Super 8 by Wyndham Ketchikan
+1541,Yellowknife,CA,73.56,62.456,-114.3525,Super 8 by Wyndham Yellowknife
+1542,Manoel urbano,BR,75.58,-8.8389,-69.2597,APARTAMENTOS
+1545,Mahanoro,MG,67.14,-19.9,48.8,VANILLA
+1546,East london,ZA,61.0,-33.0153,27.9116,Woodleigh Guest Lodge
+1551,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+1552,Batavia,US,71.4,41.85,-88.3126,Herrington Inn & Spa
+1554,Atuona,PF,78.48,-9.8,-139.0333,Hôtel Hiva Oa Hanakee Lodge
+1561,Ponta do sol,PT,64.71,32.6667,-17.1,Enotel Sunset Bay
+1562,Vaini,TO,75.96,-21.2,-175.2,Tonga South Beach House
+1565,Vaini,TO,75.96,-21.2,-175.2,Tonga South Beach House
+1566,Lima,PE,63.9,-12.0432,-77.0282,Gran Hotel Bolivar Lima
+1568,Gurkovo,BG,62.98,42.6667,25.8,Домът на БЕБО
+1570,Bambous virieux,MU,69.22,-20.3428,57.7575,La Petite Ferme
+1580,Sitka,US,60.69,57.0531,-135.33,Aspen Suites Hotel Sitka
+1582,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+1583,Souillac,MU,71.26,-20.5167,57.5167,Bils' Villa
+1586,Gandajika,CD,63.41,-6.75,23.95,Hôtel Mémorial
+1587,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+1588,Arraial do cabo,BR,69.06,-22.9661,-42.0278,Ocean View Hotel
+1593,Touros,BR,75.38,-5.1989,-35.4608,Bugaendrus Paradise
+1594,Cape town,ZA,64.11,-33.9258,18.4232,Southern Sun Waterfront Cape Town
+1595,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+1596,Atuona,PF,78.48,-9.8,-139.0333,Hôtel Hiva Oa Hanakee Lodge
+1597,Cape town,ZA,64.11,-33.9258,18.4232,Southern Sun Waterfront Cape Town
+1598,Los llanos de aridane,ES,65.95,28.6585,-17.9182,Apartamentos El Patio
+1599,Carnarvon,AU,70.34,-24.8667,113.6333,Good Paddock Restaurant By Gascoyne Hotel
+1602,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+1604,Atuona,PF,78.48,-9.8,-139.0333,Hôtel Hiva Oa Hanakee Lodge
+1606,Puerto ayora,EC,70.56,-0.7393,-90.3518,Castillo Galapagos
+1608,Fortuna,US,63.52,40.5982,-124.1573,"The Redwood Riverwalk, A Boutique Motel"
+1609,Ribeira grande,PT,65.16,38.5167,-28.7,Casa da Japoneira
+1611,Sambava,MG,68.23,-14.2667,50.1667,ROYAL SAVA Hôtel
+1612,Victoria,SC,78.06,-4.6167,55.45,Hilton Seychelles Northolme Resort & Spa
+1617,Vredendal,ZA,63.25,-31.6683,18.5012,River Lodge
+1619,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+1622,Cidreira,BR,62.4,-30.1811,-50.2056,Apart Hotel Portuguêsa
+1626,Tulum,MX,78.19,20.2167,-87.4667,Maison Tulum
+1628,Ponta do sol,CV,73.18,17.1994,-25.0919,Sintanton Trekking i
+1630,Ribeira grande,PT,65.16,38.5167,-28.7,Casa da Japoneira
+1632,South sioux city,US,67.95,42.4739,-96.4136,Stoney Creek Hotel Sioux City
+1634,Fortuna,US,63.52,40.5982,-124.1573,"The Redwood Riverwalk, A Boutique Motel"
+1641,Kainantu,PG,74.55,-6.2887,145.8655,Nasuke GUEST House
+1642,Ponta do sol,CV,73.18,17.1994,-25.0919,Sintanton Trekking i
+1644,Bethel,US,64.9,41.3712,-73.414,"Holiday Inn Danbury-Bethel @ I-84, an IHG Hotel"
+1645,Saldanha,ZA,63.59,-33.0117,17.9442,Saldanha Bay Hotel
+1646,Buchanan,LR,78.1,5.8808,-10.0467,Hotel Buchanan Liberia
+1648,Vaini,TO,75.96,-21.2,-175.2,Tonga South Beach House
+1649,Russell,NZ,69.24,-35.2613,174.1236,Copthorne Hotel and Resort Bay of Islands
+1650,Vaini,TO,75.96,-21.2,-175.2,Tonga South Beach House
+1651,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+1652,Sanctorum,MX,67.32,19.1,-98.25,"Holiday Inn Puebla Finsa, an IHG Hotel"
+1657,Vao,NC,73.36,-22.6667,167.4833,OURE TERA beach resort
+1659,Luderitz,,69.4,-26.6481,15.1594,Lüderitz Zum Sperrgebiet
+1663,Autazes,BR,72.63,-3.5797,-59.1306,Odemar Da S Souza
+1664,Libreville,GA,78.82,0.3925,9.4537,Hotel Kreg Le Patio
+1666,Biankouma,CI,67.06,7.7391,-7.6138,Hotel Tongo Loua
+1668,Mahebourg,MU,71.89,-20.4081,57.7,Le Peninsula Bay Beach Resort & Spa
+1669,Takab,IR,63.14,36.4009,47.1133,خانه معلم تکاب
+1675,Vaini,TO,75.96,-21.2,-175.2,Tonga South Beach House
+1676,Cape town,ZA,64.11,-33.9258,18.4232,Southern Sun Waterfront Cape Town
+1677,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+1678,Fortuna,US,63.52,40.5982,-124.1573,"The Redwood Riverwalk, A Boutique Motel"
+1682,Atuona,PF,78.48,-9.8,-139.0333,Hôtel Hiva Oa Hanakee Lodge
+1686,Inhambane,MZ,69.58,-23.865,35.3833,O Rouxinol
+1688,Guiratinga,BR,69.89,-16.3494,-53.7583,Hotel Arcoverde
+1691,Rio branco,BR,72.21,-9.9747,-67.81,Amazônia Palace Hotel
+1697,Vaini,TO,75.96,-21.2,-175.2,Tonga South Beach House
+1700,Najran,SA,70.45,17.4924,44.1277,ضيافة ال ياسين
+1701,Atuona,PF,78.48,-9.8,-139.0333,Hôtel Hiva Oa Hanakee Lodge
+1708,Sitka,US,60.69,57.0531,-135.33,Aspen Suites Hotel Sitka
+1710,Cape town,ZA,64.11,-33.9258,18.4232,Southern Sun Waterfront Cape Town
+1715,Cape town,ZA,64.11,-33.9258,18.4232,Southern Sun Waterfront Cape Town
+1716,Vila franca do campo,PT,70.2,37.7167,-25.4333,Place of Moments
+1719,Tutoia,BR,76.06,-2.7619,-42.2744,Tutóia Pousada Vila Beach
+1721,Bethel,US,64.9,41.3712,-73.414,"Holiday Inn Danbury-Bethel @ I-84, an IHG Hotel"
+1723,Nome,US,70.16,64.5011,-165.4064,Red Moose
+1725,Cidreira,BR,62.4,-30.1811,-50.2056,Apart Hotel Portuguêsa
+1726,Puerto ayora,EC,70.56,-0.7393,-90.3518,Castillo Galapagos
+1727,Yellowknife,CA,73.56,62.456,-114.3525,Super 8 by Wyndham Yellowknife
+1728,Hermanus,ZA,62.02,-34.4187,19.2345,Harbour House Hotel
+1729,Puerto ayora,EC,70.56,-0.7393,-90.3518,Castillo Galapagos
+1730,Bowen,AU,77.68,-20.0167,148.2333,Bluewater Harbour Motel
+1731,El tigre,VE,75.18,8.8875,-64.2454,Hotel Radazul
+1733,Hermanus,ZA,62.02,-34.4187,19.2345,Harbour House Hotel
+1734,Yellowknife,CA,73.56,62.456,-114.3525,Super 8 by Wyndham Yellowknife
+1735,Massape,BR,72.34,-3.5228,-40.3428,Pousada Bela Vista
+1736,Rikitea,PF,73.31,-23.1203,-134.9692,Pension Bianca & Benoit
+1741,Vaini,TO,75.96,-21.2,-175.2,Tonga South Beach House
+1747,Vaini,TO,75.96,-21.2,-175.2,Tonga South Beach House
+1751,Hasaki,JP,63.0,35.7333,140.8333,Gyōkeikan
+1755,Jamestown,SH,64.02,-15.9387,-5.7168,Williams Estate
