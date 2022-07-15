@@ -4,9 +4,9 @@ Hi Grader. This project is incomplete. But I can only have a 2 missing assignmen
 
 Here is how far I got to help you grade =D. 
 
-**Self Grade : 47/100
+**Self Grade : 47/100**
 
-Self Grade Explanation: I gave my self full credit for all sections that I finished. and n grade for anything I didn't do. I did and a -3 cause I didn't have weather description.** 
+**Self Grade Explanation: I gave my self full credit for all sections that I finished. and n grade for anything I didn't do. I did and a -3 cause I didn't have weather description.** 
 
 Deliverable 1
 * Retrieve all of the following information from the API call: (15 pt)
