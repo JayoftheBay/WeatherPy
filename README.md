@@ -33,3 +33,5 @@ Deliverable 3
 Not attempted 
 
 Thanks for all the help I did submit the following challenges recently that are acutally completed. Challenges 12,15,16,17,18 and 19.  
+
+Self Grade : 47/100
