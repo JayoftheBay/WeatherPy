@@ -20,6 +20,7 @@ Deliverable 1
 * Export the DataFrame as WeatherPy_Database.csv into the Weather_Database folder (5 pt) **DONE**
 
 Deliverable 2 
+Note if you notice that some of the code is errored on the file its cause i tried to reattempt it and didn't want to re run through every city again sense I already had a csv. file containing the hotels. 
 
 * Input statements are written to prompt the customer for their minimum and maximum temperature preferences. (5 pt) **DONE**
 * A new DataFrame is created based on the minimum and maximum temperature, and empty rows are dropped. (5 pt) **DONE**
